@@ -1,40 +1,16 @@
-Prologue by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Welcome to my portfolio website!
 
+I am thrilled to share my passion for software development and express my enthusiasm for starting a career in this field. Throughout my journey, I have gained valuable experience in various areas, including learning algorithms, data structures, and object-oriented projects. 
 
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+I possess a strong command of programming languages such as C/C++, Java, Python, SQL, Shell scripting, and GitHub for version control. These technical skills, combined with my proficiency in AIML (Artificial Intelligence Machine Learning), enable me to implement complex programs and effectively debug code.
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
+My portfolio website showcases a collection of my projects, highlighting my expertise in software development and problem-solving. By exploring my work, you can witness my proficiency in utilizing diverse programming languages and my ability to apply AIML techniques to create innovative solutions.
 
-http://ineedchemicalx.deviantart.com/
+Collaboration and effective communication are paramount in any team-oriented environment. I thrive in such environments and look forward to contributing my skills alongside talented professionals. Together, we can achieve remarkable results and drive project success.
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+Please take a moment to visit my portfolio website, where you can delve deeper into my background, explore my projects, and gain insight into my technical capabilities. I am confident that my skills and dedication make me a strong candidate for your esteemed company.
 
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
+Thank you for considering my application. I eagerly anticipate the opportunity to discuss how my qualifications align with your company's objectives and to further demonstrate my potential contributions.
 
-(* = Not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Sincerely,
+Abhishek Verma
